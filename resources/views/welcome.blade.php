@@ -1,3 +1,6 @@
+<!-- comman create -- php artisan make:comman example -->
+<!-- comman run -- php artisan mail:send [protected $signature = 'mail:send']; -->
+
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
